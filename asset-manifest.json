@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/memory-game-app/static/css/main.70cc7497.css",
+    "main.js": "/memory-game-app/static/js/main.85dff8d0.js",
+    "static/media/football-ground.jpg": "/memory-game-app/static/media/football-ground.6adb98a32d3b7e8cbb0c.jpg",
+    "static/media/football-pitch.jpeg": "/memory-game-app/static/media/football-pitch.0c81f316cb086040396d.jpeg",
+    "static/media/ibra.jpg": "/memory-game-app/static/media/ibra.5a8e06babcfa87ea4d19.jpg",
+    "static/media/kuba.jpg": "/memory-game-app/static/media/kuba.8a41e868a5106f3a9756.jpg",
+    "static/media/ramos.jpeg": "/memory-game-app/static/media/ramos.9ca471caad77cbc31ac5.jpeg",
+    "static/media/erling-haaland.jpeg": "/memory-game-app/static/media/erling-haaland.07c3a29625dc4d9cb837.jpeg",
+    "static/media/leo-messi.jpeg": "/memory-game-app/static/media/leo-messi.0b36377ec4d70ed54225.jpeg",
+    "static/media/jozwiak.jpeg": "/memory-game-app/static/media/jozwiak.b267e8cd749ea0b35e12.jpeg",
+    "static/media/kylian-mbappe.jpeg": "/memory-game-app/static/media/kylian-mbappe.5af5bd7693b478d3229d.jpeg",
+    "static/media/luka-modric.jpeg": "/memory-game-app/static/media/luka-modric.adaf4eff95e3026a297e.jpeg",
+    "static/media/casillas.jpeg": "/memory-game-app/static/media/casillas.b28acb03d9ed9ac69371.jpeg",
+    "static/media/kb9.jpeg": "/memory-game-app/static/media/kb9.a0b788c9228bf723762f.jpeg",
+    "static/media/totti.jpeg": "/memory-game-app/static/media/totti.28c00e029e1ac49abf6d.jpeg",
+    "static/media/cr7.jpeg": "/memory-game-app/static/media/cr7.8fe847e464379f57b53c.jpeg",
+    "static/media/football-icon.jpeg": "/memory-game-app/static/media/football-icon.0de3e82432c27eadff78.jpeg",
+    "index.html": "/memory-game-app/index.html",
+    "main.70cc7497.css.map": "/memory-game-app/static/css/main.70cc7497.css.map",
+    "main.85dff8d0.js.map": "/memory-game-app/static/js/main.85dff8d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70cc7497.css",
+    "static/js/main.85dff8d0.js"
+  ]
+}
