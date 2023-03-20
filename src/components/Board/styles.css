@@ -1,0 +1,27 @@
+.board-container {
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    padding: 30px;
+    background-image: url('../../assets/football-ground.jpg');
+    justify-content: center;
+}
+
+.win-info {
+    background-color: rgb(0, 139, 16);
+    color: white;
+    width: 100%;
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    height: 10vh;
+    justify-content: center;
+    font-weight: bold;
+  }
+  
+  .win-info p {
+    margin: 0;
+  }
